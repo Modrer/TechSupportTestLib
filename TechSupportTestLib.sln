@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35312.102
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HedgehogCheckLib", "TechSupportTestLib\HedgehogCheckLib.csproj", "{035CBB1B-87C8-46A5-99A1-6C78A2A45E6B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HedgehogCheckLib", "HedgehogCheckLib\HedgehogCheckLib.csproj", "{035CBB1B-87C8-46A5-99A1-6C78A2A45E6B}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HendehogCheckLibTest", "TechSupportTestLibTest\HendehogCheckLibTest.csproj", "{296C07CB-95E2-4873-A495-A0228F9D1D4D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HendehogCheckLibTest", "HendehogCheckLibTest\HendehogCheckLibTest.csproj", "{296C07CB-95E2-4873-A495-A0228F9D1D4D}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{85D84BF4-265E-41B9-B67B-79E78BC7B25F}"
 	ProjectSection(SolutionItems) = preProject
